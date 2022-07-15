@@ -1,7 +1,7 @@
 # Portfolio-Alura
 
 <p align="center">
-   <img src="https://github.com/MatheusKristman/Portifolio-Alura/blob/main/print-portifolio-alura.png" alt="Portifolio Alura"/>
+   <img src="https://github.com/MatheusKristman/Portfolio-Alura/blob/main/print-portifolio-alura.png" alt="Portifolio Alura"/>
 </p>
 
 <p align="center">	
@@ -34,10 +34,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## :closed_book: Licenca
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/MatheusKristman/Portifolio-Alura/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/MatheusKristman/Portfolio-Alura/blob/main/LICENSE) para mais detalhes.
 
 ## :camera_flash: **Demonstração**
 
-<a href=" https://matheuskristman.github.io/Portifolio-Alura/">Acesse a demo clicando aqui</a>
+<a href=" https://matheuskristman.github.io/Portfolio-Alura/">Acesse a demo clicando aqui</a>
 
 Feito por Matheus Kristman - <a href="https://www.linkedin.com/in/matheus-kristman-07a947171/">Linkedin</a>
