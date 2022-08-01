@@ -43,6 +43,11 @@ body {
     cursor: default;
 }
 
+.navbar-item a {
+    text-decoration: none;
+    color: #111;
+}
+
 .navbar-item {
     font-weight: 500;
     font-size: 16px;
@@ -235,12 +240,17 @@ body {
 }
 
 .formation {
+    width: 100%;
     margin: 0 10px 0 10px;
 }
 
 .formation img {
+    
+}
+
+.formation img {
     width: 100%;
-    height: auto;
+    height: 250px;
     margin-bottom: 8px;
 }
 
@@ -314,6 +324,15 @@ body {
     margin-bottom: 8px;
 }
 
+.experience-btns a {
+    display: inline-block;
+    width: 116px;
+}
+
+.experience-btns a:first-child {
+    margin-right: 16px;
+}
+
 .btn-repo {
     width: 116px;
     height: 51px;
@@ -321,6 +340,7 @@ body {
     color: #2a7ae4;
     border: 1px solid #2a7ae4;
     margin-right: 16px;
+    cursor: pointer;
 }
 
 .btn-demo {
@@ -329,6 +349,7 @@ body {
     background-color: #2a7ae4;
     color: #fff;
     border: 1px solid #2a7ae4;
+    cursor: pointer;
 }
 
 /* CONTACT SECTION */
